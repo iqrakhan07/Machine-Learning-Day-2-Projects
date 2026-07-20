@@ -17,17 +17,17 @@ env/
 # PyCharm settings
 .idea/
 
-# OS files
-.DS_Store
-Thumbs.db
-
 # Environment variables
 .env
 
-# Python build files
+# Build files
 build/
 dist/
 *.egg-info/
 
 # Logs
 *.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
