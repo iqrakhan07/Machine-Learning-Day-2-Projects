@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Project 2
+# Machine Learning Day 2 Projects
 
 # Loan Approval Prediction & Student Pass/Fail Prediction using Logistic Regression
 
